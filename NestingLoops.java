@@ -14,7 +14,7 @@ public class NestingLoops {
 			for(int b = 1; b <= 3; b++) {
 				System.out.print("(" + a + "," + b + ") ");
 			}
-			
+			System.out.println("Hana is rly cool");
 		}
 		
 		System.out.println("\n");
